@@ -1,0 +1,9 @@
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/valueobject/OperationCommand.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/entities/Account.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/entities/IAccount.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/valueobject/TypeOperation.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/service/Withdrawal.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/service/Deposite.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/entities/Operation.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/service/DoOperation.java
+/home/inexa-pc/workspace/BankAccount/src/main/java/bankAccount/domain/exception/InsufficientBalanceException.java
